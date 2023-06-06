@@ -15,6 +15,7 @@ window.Config = {
 	'm794516311-1a0aa7172e575f7230a859bd', // ChatGPT镜像
 	'm794516444-9ad08359dd84fc858618f6b9', // Twikoo评论系统
 	'm794516449-dc08b247fa8ebe21f4b46adb', // Waline评论系统
+	'm794516523-0189b2752a4834f6f6e51c34', // Meting-API
   ],
 
   // 日志天数
