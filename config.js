@@ -38,7 +38,7 @@ window.Config = {
       url: 'https://github.com/AdingApkgg'
     },
 	{
-      text: '项目',
+      text: '项目源码',
       url: 'https://github.com/yb/uptime-status'
     },
   ],
