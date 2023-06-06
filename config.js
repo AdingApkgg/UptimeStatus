@@ -27,7 +27,7 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://saop.cc/'
+      url: 'https://saop.cc'
     },
     {
       text: '博客',
@@ -35,7 +35,11 @@ window.Config = {
     },
 	{
       text: 'GitHub',
-      url: 'https://github.com/AdingApkgg/'
+      url: 'https://github.com/AdingApkgg'
+    },
+	{
+      text: '项目',
+      url: 'https://github.com/yb/uptime-status'
     },
   ],
 };
