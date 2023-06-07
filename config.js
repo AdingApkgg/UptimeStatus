@@ -12,7 +12,7 @@ window.Config = {
 	'm794516507-e544fee64a0fd497546fa68b', // 站点监控
     'm794516318-f3aaa1a73d10ad2ea6851a30', // 原神群推荐
 	'm794215978-b5f458af98dd779d013edf92', // v2ray节点
-	'm794516304-cfa19b342844bed1f27a7257', // Google镜像
+	'm794516304-983c3d13496d77bc85b0f962', // Google镜像
 	'm794516311-1a0aa7172e575f7230a859bd', // ChatGPT镜像
 	'm794516444-9ad08359dd84fc858618f6b9', // Twikoo评论系统
 	'm794516449-dc08b247fa8ebe21f4b46adb', // Waline评论系统
