@@ -18,6 +18,7 @@ window.Config = {
 	'm794516449-dc08b247fa8ebe21f4b46adb', // Waline评论系统
 	'm794600345-3c7861497fe4b8d3c58919e6', // 随机图片API
 	'm794516523-0189b2752a4834f6f6e51c34', // Meting-API
+	'm794754260-d2a65843c9d8819ce7424796', // bilibiliTip-API
   ],
 
   // 日志天数
