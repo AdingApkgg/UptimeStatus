@@ -11,14 +11,9 @@ window.Config = {
     'm794516292-ef8bdb015fe7717539d82b42', // 云盘
 	'm794516507-e544fee64a0fd497546fa68b', // 站点监控
     'm794516318-f3aaa1a73d10ad2ea6851a30', // 原神群推荐
-	'm794215978-b5f458af98dd779d013edf92', // v2ray节点
 	'm794516304-983c3d13496d77bc85b0f962', // Google镜像
 	'm794516311-1a0aa7172e575f7230a859bd', // ChatGPT镜像
-	'm794516444-9ad08359dd84fc858618f6b9', // Twikoo评论系统
-	'm794516449-dc08b247fa8ebe21f4b46adb', // Waline评论系统
 	'm794600345-3c7861497fe4b8d3c58919e6', // 随机图片API
-	'm794516523-0189b2752a4834f6f6e51c34', // Meting-API
-	'm794754260-d2a65843c9d8819ce7424796', // bilibiliTip-API
   ],
 
   // 日志天数
