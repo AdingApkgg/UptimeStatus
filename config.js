@@ -1,17 +1,18 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '站点监控',
+  SiteName: 'AsunaStatus',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm794516267-b55a494a66ce8946f6f70b8e', // 小站
-    'm794516281-a8d97dc5043cf8cd79dc7d29', // 博客
-    'm796712700-a2e283d85258db32240f75a5', // Gal索引
-    'm794516318-f3aaa1a73d10ad2ea6851a30', // 原神BBS
-	'm794516304-983c3d13496d77bc85b0f962', // 谷歌镜像
-	'm794600345-3c7861497fe4b8d3c58919e6', // 随机图片
+    'm794516267-b55a494a66ce8946f6f70b8e', // Home
+    'm794516281-80106b0d4ad31ff848cf1331', // Blog
+    'm796712700-a2e283d85258db32240f75a5', // GGS
+    'm794516318-f3aaa1a73d10ad2ea6851a30', // Genshin Impact BBS
+	'm798344797-1fc1b79bb3bc61ae8cb51012', // AList
+	'm798344799-0aa13f17e3c83ef245fded05', // Cloudreve
+	'm794600345-3c7861497fe4b8d3c58919e6', // Random pictures
   ],
 
   // 日志天数
