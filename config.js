@@ -10,7 +10,6 @@ window.Config = {
     'm794516281-80106b0d4ad31ff848cf1331', // Asuna Blog
     'm796712700-a2e283d85258db32240f75a5', // GGS
     'm794516318-f3aaa1a73d10ad2ea6851a30', // Genshin Impact BBS
-	'm798344917-9fbf5b49ac8e17840d2ddcb9', // Asuna Drive
 	'm794600345-3c7861497fe4b8d3c58919e6', // Random pictures
   ],
 
